@@ -1,5 +1,5 @@
 🌐 Web-Development
-🚀 Welcome to my Web Development journey! This repository is my playground for mastering front-end and back-end technologies, starting from scratch and building expertise in Vanilla CSS, FastAPI, Node.js, and more. I’m here to utilize the best resources and create stunning projects. Let’s make this awesome! 🌟
+ This repository is my playground for mastering front-end a technologies, starting from scratch and building expertise in Vanilla CSS, FastAPI, Node.js, and more. I’m here to utilize the best resources and create stunning projects. Let’s make this awesome! 🌟
 
 📚 What’s Included?
 Front-End:
@@ -26,7 +26,7 @@ Copy code
 Web-Development/
 │
 ├── frontend/         # HTML, CSS, and JavaScript projects
-├── backend/          # FastAPI and Node.js projects
+         
 ├── projects/         # Full-stack applications
 ├── notes/            # Study notes and reference materials
 ├── resources/        # Curated tutorials, guides, and cheatsheets
